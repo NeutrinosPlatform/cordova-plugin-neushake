@@ -1,0 +1,38 @@
+{
+  "name": "cordova-plugin-neushake",
+  "version": "1.0.0",
+  "author": "Lee Crossley <leee@hotmail.co.uk> (http://ilee.co.uk/)",
+  "description": "Cordova Plugin to detect when a physical device performs a shake gesture.",
+  "cordova": {
+    "id": "cordova-plugin-neushake",
+    "platforms": []
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NeutrinosPlatform/cordova-plugin-neushake.git"
+  },
+  "keywords": [
+    "cordova",
+    "shake",
+    "gesture",
+    "accelerometer",
+    "acceleration",
+    "detection",
+    "ecosystem:cordova"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=5.0.0"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NeutrinosPlatform/cordova-plugin-neushake/issues"
+  },
+  "homepage": "https://github.com/NeutrinosPlatform/cordova-plugin-neushake",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "path":"^0.12.7"
+  }
+}
