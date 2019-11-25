@@ -1,4 +1,4 @@
-# Shake Gesture Detection for Cordova [![npm version](https://badge.fury.io/js/cordova-plugin-neushake.svg)](http://badge.fury.io/js/cordova-plugin-neushake)
+# Shake Gesture Detection for Cordova [![npm version](https://badge.fury.io/js/cordova-plugin-neushake.svg)](//npmjs.com/package/cordova-plugin-neushake)
 
 Apache Cordova / PhoneGap Plugin to detect when a physical device performs a shake gesture.
 
